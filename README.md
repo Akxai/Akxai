@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://akshay-git-007.io)
+[![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2737.jpg?w=1380&t=st=1659446093~exp=1659446693~hmac=e690fd1cc9cc50e2222e122248752b86a2b8a234847b1a13cb9913cba3be0292)](https://akshay-git-007.io)
 <h1 align="center">Hi 👋, I'm Akshay Aileni</h1>
 <h3 align="center">A passionate frontend or maybe a fullstack developer from India</h3>
 <img align="right" alt="Binary" src="https://cdn-icons.flaticon.com/png/512/967/premium/967561.png?token=exp=1659446290~hmac=64c0feca97915b3bed0a0063127e5964">
@@ -28,7 +28,6 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19622281/akshay-aileni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19622281/akshay-aileni" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/akshay7416463461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akshay7416463461" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/akshay_git_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshay_git_007/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/akshayaileni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/akshayaileni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
