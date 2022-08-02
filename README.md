@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2737.jpg?w=1380&t=st=1659446093~exp=1659446693~hmac=e690fd1cc9cc50e2222e122248752b86a2b8a234847b1a13cb9913cba3be0292)](https://akshay-git-007.io)
 <h1 align="center">Hi 👋, I'm Akshay Aileni</h1>
 <h3 align="center">A passionate frontend or maybe a fullstack developer from India</h3>
-<img align="right" alt="Binary" src="https://cdn-icons.flaticon.com/png/512/967/premium/967561.png?token=exp=1659446290~hmac=64c0feca97915b3bed0a0063127e5964">
+<img align="right" alt="Binary" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1659446353~exp=1659446953~hmac=3d87bc9a9075b450897c47371dbf12a7870e27f51a98fa21862b3a7e7156c703">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-git-007&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
 
