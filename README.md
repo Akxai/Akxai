@@ -3,31 +3,32 @@
 <h3 align="center">A passionate frontend or maybe a fullstack developer from India</h3>
 <img align="right" alt="Binary" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1659446353~exp=1659446953~hmac=3d87bc9a9075b450897c47371dbf12a7870e27f51a98fa21862b3a7e7156c703">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-git-007&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akshay_git_007" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_git_007?logo=twitter&style=for-the-badge" alt="akshay_git_007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Akxai" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_git_007?logo=twitter&style=for-the-badge" alt="akshay_git_007" /></a> </p>
 
 - 🔭 I’m currently working on [Notes and PDFs](ece092.herokuapp.com)
 
 - 🌱 I’m currently learning **React, Babel, Tailwind.**
 
-- 👨‍💻 All of my projects are available at [https://akshay-git-007.github.io/updatedResume/](https://akshay-git-007.github.io/updatedResume/)
+- 👨‍💻 All of my projects are available at [https://resume-092.vercel.app](https://resume-092.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, Javascript and Python as well.**
 
 - 📫 How to reach me **akshayakshay5543@gmail.com**
 
-- 📄 Know about my experiences [https://akshay-git-007.github.io/updatedResume/](https://akshay-git-007.github.io/updatedResume/)
+- 📄 Know about my experiences [https://resume-092.vercel.app](https://resume-092.vercel.app)
 
 - ⚡ Fun fact **I love and eat a lot of Pizzas.🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akshay_git_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_git_007" height="30" width="40" /></a>
+<a href="https://twitter.com/Akxai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_git_007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-aileni-75b10a212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-aileni-75b10a212/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19622281/akshay-aileni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19622281/akshay-aileni" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/akshay7416463461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akshay7416463461" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/akshay_git_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshay_git_007/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/akxai_092/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshay_git_007/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
