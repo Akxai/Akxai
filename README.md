@@ -4,7 +4,7 @@
 <img align="right" alt="Binary" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1659446353~exp=1659446953~hmac=3d87bc9a9075b450897c47371dbf12a7870e27f51a98fa21862b3a7e7156c703">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akxai_092&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akxai&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akxai_092" target="blank"><img src="https://img.shields.io/twitter/follow/akxai_092?logo=twitter&style=for-the-badge" alt="akxai_092" /></a> </p>
 
