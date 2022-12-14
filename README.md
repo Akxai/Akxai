@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2737.jpg?w=1380&t=st=1659446093~exp=1659446693~hmac=e690fd1cc9cc50e2222e122248752b86a2b8a234847b1a13cb9913cba3be0292)](https://akshay-git-007.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/web-programmer-typographic-header-concept-coding-testing-writing-program-website-using-internet-different-software-185033546.jpg)](https://akshay-git-007.io)
 <h1 align="center">Hi 👋, I'm Akshay Aileni</h1>
 <h3 align="center">A passionate frontend or maybe a fullstack developer from India</h3>
-<img align="right" alt="Binary" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1659446353~exp=1659446953~hmac=3d87bc9a9075b450897c47371dbf12a7870e27f51a98fa21862b3a7e7156c703">
+<img align="right" alt="Binary" width="400" src="https://i.pinimg.com/736x/ae/5e/6e/ae5e6e00ef5512999dc09134c6185444.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akxai&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
