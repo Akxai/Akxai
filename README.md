@@ -1,8 +1,7 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/web-programmer-typographic-header-concept-coding-testing-writing-program-website-using-internet-different-software-185033546.jpg)](https://akshay-git-007.io)
 <h1 align="center">Hi 👋, I'm Akshay Aileni</h1>
 <h3 align="center">A passionate frontend or maybe a fullstack developer from India</h3>
-<img align="right" alt="Binary" width="400" src="https://i.pinimg.com/736x/ae/5e/6e/ae5e6e00ef5512999dc09134c6185444.jpg">
-
+<div><img style='width: 500px;' align="right" src="https://opendoodles.s3-us-west-1.amazonaws.com/zombieing.png"></img></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akxai&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
 
