@@ -1,5 +1,5 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/web-programmer-typographic-header-concept-coding-testing-writing-program-website-using-internet-different-software-185033546.jpg)](https://akshay-git-007.io)
-<h1 align="center">Hi 👋,Akshay Aileni</h1>
+<h1 align="center">Hi 👋, I'm Akshay Aileni</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Full+Stack+Web+Developer;A+Sneakerhead+as+well+%3A)" alt="Typing SVG" /></a></h3>
 <div><img style='width: 500px;' align="right" src="https://opendoodles.s3-us-west-1.amazonaws.com/zombieing.png"></img></div>
 
