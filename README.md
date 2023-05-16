@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akshayakshay5543@gmail.com**
 
-- 📄 Know about my experiences [https://resume-092.vercel.app](https://resume-092.vercel.app)
+- 📄 Know about my experiences [Resume](https://github.com/Akxai/Akxai/blob/main/Akshay%20aileni.pdf)
 
 - ⚡ Fun fact **I love and eat a lot of Pizzas.🍕**
 
