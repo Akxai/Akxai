@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/akxai_092" target="blank"><img src="https://img.shields.io/twitter/follow/akxai_092?logo=twitter&style=for-the-badge" alt="akxai_092" /></a> </p>
 
-- 🔭 I’m currently working on [Notes and PDFs](ece092.herokuapp.com)
+- 🔭 I’m currently working on [Notes and PDFs](ece092.onrender.com)
 
 - 🌱 I’m currently learning **React, Babel, Tailwind.**
 
-- 👨‍💻 All of my projects are available at [https://resume-092.vercel.app](https://resume-092.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://akxai.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, Javascript and Python as well.**
 
