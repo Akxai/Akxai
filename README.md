@@ -1,7 +1,8 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/web-programmer-typographic-header-concept-coding-testing-writing-program-website-using-internet-different-software-185033546.jpg)](https://akshay-git-007.io)
+<img src="https://wallpaperaccess.com/full/8378951.png" style="width: 100%; height: 200px; object-fit: scale-down;" alt="MasterHead">
+
 <h1 align="center">Hi 👋, I'm Akshay Aileni</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Full+Stack+Web+Developer;A+Sneakerhead+as+well+%3A)" alt="Typing SVG" /></a></h3>
-<div><img style='width: 500px;' align="right" src="https://opendoodles.s3-us-west-1.amazonaws.com/zombieing.png"></img></div>
+<div><img style='width: 500px;object-fit: contain; mix-blend-mode: color-burn;' align="right" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=740&t=st=1684850345~exp=1684850945~hmac=00d5e624689419a1a8ab984b1c87a4fbb53076e89f5aa6aae37ea408df27b9f9"></img></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akxai&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
 
