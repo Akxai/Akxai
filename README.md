@@ -1,8 +1,8 @@
-<img src="https://wallpaperaccess.com/full/8378951.png" style="width: 100%; height: 200px; object-fit: scale-down;" alt="MasterHead">
+<img src="https://t3.ftcdn.net/jpg/06/01/36/80/240_F_601368083_t4gevnCCQ5oRlXxyNvnJ68SvBZT1HrsL.jpg" style="width: 100%; height: 200px; object-fit: scale-down;" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Akshay Aileni</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Full+Stack+Web+Developer;A+Sneakerhead+as+well+%3A)" alt="Typing SVG" /></a></h3>
-<div><img style='width: 500px;object-fit: contain; mix-blend-mode: color-burn;' align="right" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=740&t=st=1684850345~exp=1684850945~hmac=00d5e624689419a1a8ab984b1c87a4fbb53076e89f5aa6aae37ea408df27b9f9"></img></div>
+<div style="display:flex; justify-content:center; align-items:center;"><img style='width: 500px; position: relative;bottom: 100px;' align="right" src="https://i.imgur.com/VXRRa07.png"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akxai&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-git-007" /> </p>
 
@@ -21,6 +21,9 @@
 - 📄 Know about my experiences [Resume](https://github.com/Akxai/Akxai/blob/main/Akshay%20aileni.pdf)
 
 - ⚡ Fun fact **I love and eat a lot of Pizzas.🍕**
+
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
