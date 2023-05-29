@@ -40,7 +40,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 </a>
-
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/>
 </a>
@@ -53,12 +61,7 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/>
-</a>
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
 </a>
@@ -90,6 +93,8 @@
 <a href="https://vercel.com" target="_blank" rel="noreferrer">
   <img src="https://upload.vectorlogo.zone/logos/vercel/images/eeca2762-8714-4b58-b625-368a855d149e.svg" alt="vercel" width="40" height="40"/>
 </a>
+  
+ 
   
 
 
