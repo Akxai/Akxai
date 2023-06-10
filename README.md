@@ -94,14 +94,8 @@
   <img src="https://upload.vectorlogo.zone/logos/vercel/images/eeca2762-8714-4b58-b625-368a855d149e.svg" alt="vercel" width="40" height="40"/>
 </a>
   
- 
-  
-
-
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,gmail,bash)](https://skillicons.dev) -->
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akxai&show_icons=true&locale=en&layout=compact" alt="akshay-git-007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akxai&show_icons=true&locale=en" alt="akshay-git-007" /></p>
 
