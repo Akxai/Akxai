@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Notes and PDFs](ece092.onrender.com)
 
-- 🌱 I’m currently learning **React, Babel, Tailwind.**
+- 🌱 I’m currently learning **NextJs, ThreeJs.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://akxai.vercel.app)
 
